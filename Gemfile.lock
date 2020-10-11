@@ -265,7 +265,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (>= 207)
   html-proofer (>= 3.13.0)
-  tzinfo-data 123456
+  tzinfo-data 12345678
 
 BUNDLED WITH
    1.17.3
